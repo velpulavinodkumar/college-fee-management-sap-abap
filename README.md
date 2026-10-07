@@ -110,14 +110,14 @@ A RAP business object needs SAP_BASIS 754 (S/4HANA 1909) or newer. The developme
 
 ## Team
 
-| Member | Role |
-| --- | --- |
-| _name_ | Team lead / integration |
-| _name_ | Database and data |
-| _name_ | Authentication logic |
-| _name_ | Authentication screens |
-| _name_ | Fee management |
-| _name_ | Payments and verification |
-| _name_ | Receipt and reports |
+| Member        | Role                      |
+| ------------- | ------------------------- |
+| M.Vyshnavi    | Team lead / integration   |
+| K.Gana Sai    | Database and data         |
+| V.Vinod Kumar | Authentication logic      |
+| T.Yoshitha    | Authentication screens    |
+| S.Aswini      | Fee management            |
+| S.Ramya       | Payments and verification |
+| G.Ravi Kiran  | Receipt and reports       |
 
 Chalapathi Institute of Engineering and Technology, 2026.
